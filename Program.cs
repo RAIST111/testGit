@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        
+        int b = int.Parse(Console.ReadLine());
     }
     public int Max(int[] ints)
     {
